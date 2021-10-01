@@ -46,7 +46,7 @@ This repository was developed having as main technologies:
 
 ### Using Git (recommended)
 
-1.  Clone the project from github. Change "myproject" to your project name.
+1.  Clone the project from github. 
 
 ```bash
 git clone https://github.com/MarlonSilva21/rest-api-nodejs.git 
