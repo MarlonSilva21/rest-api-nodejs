@@ -28,12 +28,15 @@ Project developed for student purposes
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#install">How to install </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#features">Features </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#structure">Project structure </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :rocket: Technologies
 
-This repository was developed having as main technologies:
+<p id="rocket-technologies">This repository was developed having as main technologies:</p>
 
 - [NodeJS](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
 - [Express](https://www.eclipse.org/downloads/)
@@ -42,7 +45,7 @@ This repository was developed having as main technologies:
 - [WebStorm](https://www.eclipse.org/downloads/)
 - And another bunch of packages....
 
-## How to install
+<h2 id="install"> How to install </h2>
 
 ### Using Git (recommended)
 
@@ -62,7 +65,7 @@ git clone https://github.com/MarlonSilva21/rest-api-nodejs.git
 ```bash
 npm install
 ```
-## Features
+<h2 id="features"> Features </h2>
 
 - Basic Authentication (Register/Login with hashed password)
 - Email helper ready just import and use. --x
@@ -71,7 +74,7 @@ npm install
 - Validations added.
 - Light-weight project.
 
-## Project structure
+<h2 id="structure"> Project structure </h2>
 
 ```sh
 .
